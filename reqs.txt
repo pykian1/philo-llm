@@ -1,0 +1,7 @@
+unsloth
+datasets
+transformers
+accelerate
+bitsandbytes
+peft
+gradio
