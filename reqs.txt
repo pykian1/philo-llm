@@ -1,7 +1,1 @@
-unsloth
-datasets
-transformers
-accelerate
-bitsandbytes
-peft
-gradio
+dataset reqs:
